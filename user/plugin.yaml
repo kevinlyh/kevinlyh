@@ -1,0 +1,11 @@
+plugin:
+    name: 'kevinlyh.user::lang.plugin.name'
+    description: 'kevinlyh.user::lang.plugin.description'
+    author: kevinlyh
+    icon: oc-icon-user
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: K-users
+        url: kevinlyh/user/users
+        icon: icon-user

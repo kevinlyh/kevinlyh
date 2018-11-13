@@ -1,0 +1,21 @@
+fields:
+    email:
+        label: Email
+        span: full
+        type: text
+    password:
+        label: Password
+        span: full
+        type: password
+    name:
+        label: Name
+        span: full
+        type: text
+    surname:
+        label: Surname
+        span: full
+        type: text
+    phone:
+        label: Phone
+        span: full
+        type: text

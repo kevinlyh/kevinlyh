@@ -1,0 +1,10 @@
+name: Users
+form: $/kevinlyh/user/models/user/fields.yaml
+modelClass: Kevinlyh\User\Models\User
+defaultRedirect: kevinlyh/user/users
+create:
+    redirect: 'kevinlyh/user/users/update/:id'
+    redirectClose: kevinlyh/user/users
+update:
+    redirect: kevinlyh/user/users
+    redirectClose: kevinlyh/user/users
