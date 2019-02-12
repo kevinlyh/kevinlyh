@@ -1,6 +1,6 @@
 # User plugin
 
-##USAGE
+## USAGE
 1. Download this project into the directory of plugins in OctoberCMS:
 git clone https://github.com/kevinlyh/kevinlyh.git 
 2. Initialize the database: 
